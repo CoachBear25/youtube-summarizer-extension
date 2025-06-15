@@ -1,6 +1,9 @@
 # 🎯 YouTube Video Summarizer Extension
 
 AI-powered browser extension that automatically summarizes YouTube videos using OpenAI GPT or Anthropic Claude.
+![GitHub last commit](https://img.shields.io/github/last-commit/CoachBear25/youtube-summarizer-extension)
+![GitHub repo size](https://img.shields.io/github/repo-size/CoachBear25/youtube-summarizer-extension)
+![Chrome Extension Badge](https://img.shields.io/badge/Chrome_Extension-Coming_Soon-blue)
 
 ## ✨ Features
 
