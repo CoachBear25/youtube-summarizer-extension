@@ -110,10 +110,12 @@ Pull requests are welcome! Open an issue first to discuss any major changes.
 ## 🛠️ Development
 
 ### File Structure
+
+```
 youtube-summarizer-extension/
-├── manifest.json # Extension configuration
-├── content.js # Injects UI into YouTube pages
-├── background.js # Handles API calls
-├── popup.html # Settings interface
-├── popup.js # Settings logic
-└── README.md # This file
+├── manifest.json     # Extension configuration
+├── content.js        # Injects UI into YouTube pages
+├── background.js     # Handles API calls
+├── popup.html        # Settings interface
+├── popup.js          # Settings logic
+└── README.md         # This file
