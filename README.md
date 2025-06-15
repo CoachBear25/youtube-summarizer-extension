@@ -14,6 +14,30 @@ AI-powered browser extension that automatically summarizes YouTube videos using 
 - **Clean UI**: Styled overlay that matches YouTube's design
 - **Privacy-focused**: API keys stored locally, never shared
 
+
+🛠️ Tech Stack
+HTML, CSS, JavaScript
+
+Chrome Extension APIs
+
+YouTube Transcript API (fallback logic)
+
+Claude/OpenAI API support (optional)
+
+🚀 Roadmap
+ Add support for multiple languages
+
+ Save summaries to Notion/Docs
+
+ Export to PDF/Markdown
+
+ Add popup UI to choose summary style (bullet/short/long)
+
+ Publish to Chrome Web Store
+
+👨‍💻 Contributing
+Pull requests are welcome! Open an issue first to discuss any major changes.
+
 ## 🚀 Installation
 
 ### Option 1: Load as Unpacked Extension (Recommended for Development)
